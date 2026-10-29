@@ -1,0 +1,9 @@
+../Core/Src/main.c:90:5:main	1
+../Core/Src/main.c:177:5:uart2_write	2
+../Core/Src/main.c:189:5:_io__putchar	1
+../Core/Src/main.c:196:6:senderTask	3
+../Core/Src/main.c:215:6:receiverTask	3
+../Core/Src/main.c:239:6:SystemClock_Config	3
+../Core/Src/main.c:286:13:MX_USART2_Init	2
+../Core/Src/main.c:320:13:MX_GPIO_Init	1
+../Core/Src/main.c:371:6:Error_Handler	1

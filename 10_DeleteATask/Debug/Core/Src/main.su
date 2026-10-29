@@ -1,0 +1,8 @@
+../Core/Src/main.c:80:5:main	16	static
+../Core/Src/main.c:167:6:led1ControllerTask	24	static
+../Core/Src/main.c:186:6:led2ControllerTask	24	static
+../Core/Src/main.c:207:6:led3ControllerTask	24	static
+../Core/Src/main.c:218:6:SystemClock_Config	88	static
+../Core/Src/main.c:265:13:MX_USART2_Init	8	static
+../Core/Src/main.c:299:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:350:6:Error_Handler	4	static,ignoring_inline_asm

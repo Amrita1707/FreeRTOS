@@ -1,0 +1,10 @@
+../Core/Src/main.c:24:5:main	1
+../Core/Src/main.c:47:6:blue_led	1
+../Core/Src/main.c:58:6:red_led	1
+../Core/Src/main.c:70:6:gatekeeper_task	1
+../Core/Src/main.c:81:5:uart2_write	2
+../Core/Src/main.c:93:5:_io__putchar	1
+../Core/Src/main.c:100:6:SystemClock_Config	3
+../Core/Src/main.c:147:13:MX_USART2_Init	2
+../Core/Src/main.c:181:13:MX_GPIO_Init	1
+../Core/Src/main.c:232:6:Error_Handler	1
